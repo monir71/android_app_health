@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_height_ft">Your height Feet here...</string>
+    <string name="txt_height_inch">Your height Inch here...</string>
+    <string name="txt_weight">Your weight here...</string>
+    <string name="over_weight">Over Weight</string>
+    <string name="under_weight">Under Weight</string>
+    <string name="healthy">Healthy Men You are. You are really fit enough!</string>
+</resources>
